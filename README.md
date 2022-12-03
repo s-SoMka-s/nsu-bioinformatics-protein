@@ -12,7 +12,7 @@
 2. Cartoons -> Hide
 3. Surfaces -> Hide
 4. Styles -> Stick
-5. 
+
 ![Wireframe](/wireframes.jpg)
 
 ## Backbone
