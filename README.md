@@ -50,10 +50,10 @@
 
 ## Различными цветами по доменам (частям) белка
 
-5. Select -> chain -> A; Actions -> color -> red
-6. Select -> chain -> B; Actions -> color -> green
-7. Select -> chain -> C; Actions -> color -> blue
-8. Select -> chain -> D; Actions -> color -> yellow
+1. Select -> chain -> A; Actions -> color -> red
+2. Select -> chain -> B; Actions -> color -> green
+3. Select -> chain -> C; Actions -> color -> blue
+4. Select -> chain -> D; Actions -> color -> yellow
    ![Domen coloring](/domein-coloring.jpg)
 
 ## Изображение публикационного качества
