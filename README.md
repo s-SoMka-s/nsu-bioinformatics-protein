@@ -54,7 +54,7 @@
 6. Select -> chain -> B; Actions -> color -> green
 7. Select -> chain -> C; Actions -> color -> blue
 8. Select -> chain -> D; Actions -> color -> yellow
-   ![Domen coloring](/domen-coloring.jpg)
+   ![Domen coloring](/domein-coloring.jpg)
 
 ## Изображение публикационного качества
 
