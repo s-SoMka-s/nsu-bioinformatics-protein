@@ -46,7 +46,7 @@
 ## Цветовой моделью CPK
 
 1. Actions -> Coloer -> By Element
-   ![CPK coloring](/cpk-coloring.png)
+   ![CPK coloring](/cpk-coloring.jpg)
 
 ## Различными цветами по доменам (частям) белка
 
@@ -54,8 +54,8 @@
 6. Select -> chain -> B; Actions -> color -> green
 7. Select -> chain -> C; Actions -> color -> blue
 8. Select -> chain -> D; Actions -> color -> yellow
-   ![Domen coloring](/domen-coloring.png)
+   ![Domen coloring](/domen-coloring.jpg)
 
 ## Изображение публикационного качества
 
-![public](/image.png)
+![public](/img.jpg)
